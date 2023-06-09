@@ -305,10 +305,6 @@ vendor/lib64/hw/gps.default.so
 vendor/lib/hw/gatekeeper.beanpod.so
 vendor/lib64/hw/gatekeeper.beanpod.so
 
-# Graphics (Allocator) - from selene-user 13 TP1A.220624.014 V14.0.2.0.TKUCNXM release-keys
-vendor/lib/hw/android.hardware.graphics.allocator@4.0-impl-mediatek.so|76ad23cf369d57c4e54b343a34db5857ea2af3ee
-vendor/lib64/hw/android.hardware.graphics.allocator@4.0-impl-mediatek.so|fcd8bb4a81e0325976121558bd8fec691e68c54e
-
 # Graphics (Allocator) - from missi_phoneext4_cn-user 13 TP1A.220624.014 V14.0.2.0.TKUCNXM release-keys
 vendor/lib/hw/android.hardware.graphics.allocator@4.0-impl-mediatek.so|76ad23cf369d57c4e54b343a34db5857ea2af3ee
 vendor/lib64/hw/android.hardware.graphics.allocator@4.0-impl-mediatek.so|fcd8bb4a81e0325976121558bd8fec691e68c54e
